@@ -7,5 +7,12 @@
 //TODO: arrange the simplified data such that it is easy to read through
 //TODO: get user input for where they want to go in the data
 //TODO: provide results for the user input
+//TODO: create a TUI (Text User Interface)
+void textUserInterface () {
+	//TODO: define what the user might want to see here
+	//TODO: write a place for easy user input here
+}
 //TODO: export the simplified data / make exportable-
-void main(){}
+void main(){
+	textUserInterface(); //start the TUI
+}
