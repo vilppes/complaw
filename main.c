@@ -13,6 +13,6 @@ void textUserInterface () {
 	//TODO: write a place for easy user input here
 }
 //TODO: export the simplified data / make exportable-
-void main(){
+int main(){
 	textUserInterface(); //start the TUI
 }
