@@ -9,10 +9,10 @@
 //TODO: provide results for the user input
 //TODO: create a TUI (Text User Interface)
 void textUserInterface () {
-	//TODO: define what the user might want to see here
-	//TODO: write a place for easy user input here
+    //TODO: define what the user might want to see here
+    //TODO: write a place for easy user input here
 }
 //TODO: export the simplified data / make exportable-
 int main(){
-	textUserInterface(); //start the TUI
+    textUserInterface(); //start the TUI
 }
